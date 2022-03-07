@@ -16,10 +16,9 @@ Cómo utilizar Matplotlib para visualizar datos.
 
 🎥 Hace CLICK en la imagen arriba para un video explicando los aspectos de esta leccion
 
-Haciendo la pregunta correcta con los datos
-The question you need answered will determine what type of ML algorithms you will leverage. And the quality of the answer you get back will be heavily dependent on the nature of your data.
+Haciendo la pregunta correcta con los datos determinará que tipo de AA algoritmo desarrollará. La calidad de respuestas que recibirás se depende mayormente en la naturaleza de tus datos.
 
-Take a look at the data provided for this lesson. You can open this .csv file in VS Code. A quick skim immediately shows that there are blanks and a mix of strings and numeric data. There's also a strange column called 'Package' where the data is a mix between 'sacks', 'bins' and other values. The data, in fact, is a bit of a mess.
+Tomamos una vista a los datos que proveyedon en esta leccion. Prodra abrir este archivo .csv en VS Code. Una miraba rapida revela que hay unos espacios con unas mezclas de cadenas y datos numericos. Ademas, hay una columna extrana llamada 'Package' donde los datos se mezclan 'sacks' y 'bins' con otros valores. Esta data es un desastre.
 
 In fact, it is not very common to be gifted a dataset that is completely ready to use to create a ML model out of the box. In this lesson, you will learn how to prepare a raw dataset using standard Python libraries. You will also learn various techniques to visualize the data.
 
